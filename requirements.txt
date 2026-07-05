@@ -3,3 +3,6 @@
 # azure-monitor-opentelemetry 
 
 azure-functions
+azure-functions
+azure-ai-projects>=2.1.0
+azure-identity
